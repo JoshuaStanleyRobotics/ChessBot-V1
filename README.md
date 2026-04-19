@@ -16,7 +16,7 @@ The design has been updated slightly since the video, and the board coloring has
 | Hall Sensor | AH49FNTR-G1 | 64 |  |
 | Momentary Switch | 6mm x 6mm | 2 |  |
 | Barrel Jack Extension | 5.5x2.1mm | 1 | https://www.amazon.com/dp/B0D9B7WR23?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1&th=1 |
-| Power Supply | 6V, 36W, 5.5x2.1mm Barrel Jack | 1 | https://www.amazon.com/dp/B07N18XN84?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_3 |
+| Power Supply | 7.5V, 36W, 5.5x2.1mm Barrel Jack | 1 | https://www.amazon.com/dp/B07N18XN84?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_3 |
 | Stepper Driver | TMC2208 (or similar) | 2 |  |
 | Stepper Motor | Nema 17, 22.5mm body height | 2 |  |
 | Linear Rod | 8mm x 250mm | 2 |  |
